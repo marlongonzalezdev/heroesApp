@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Extra notes
+
+* Included [Angular FlexLayout](https://github.com/angular/flex-layout).
+* Extense [Angular Material](https://material.angular.io/) usage.
+* Moc data from [Json Server](https://www.npmjs.com/package/json-server) which is watching db.json included in the solution.
+* Reactive forms was not included yet.
